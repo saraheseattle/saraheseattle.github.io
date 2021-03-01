@@ -1,0 +1,22 @@
+.main-heading {
+    color: rgba(120, 25, 69, 0.507);
+    background-color: darkturquoise;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: darkseagreen;
+    text-align: center;
+    font-family: 'Roboto', sans-serif
+}
+
+#top-header {
+    color: firebrick;
+}
+
+.paragraph-block {
+    padding: 16px;
+    border: 2px solid rgb(26, 11, 155);
+    margin: 0
+}
